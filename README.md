@@ -1,4 +1,3 @@
-# Welcome to my website!
 <html lang="en">
 
 <head>
@@ -30,7 +29,7 @@
   <br>
   <br>
   <p>This is website still under construction</p>
-
+  </main>
   </body>
 
   </html>
