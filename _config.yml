@@ -1,0 +1,4 @@
+remote_theme: pages-themes/slate@v0.2.0
+title: Model Prediction of the Cause of Power outages across the United States
+plugins:
+- jekyll-remote-theme
