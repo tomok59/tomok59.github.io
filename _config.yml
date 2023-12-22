@@ -1,4 +1,4 @@
 remote_theme: pages-themes/slate@v0.2.0
-title: My Website
+title: Welcome to my Website
 plugins:
 - jekyll-remote-theme
