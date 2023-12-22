@@ -31,7 +31,6 @@
   <br>
   <p>This is website still under construction</p>
 
-    
-</body>
+  </body>
 
-</html>
+  </html>
