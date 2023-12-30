@@ -1,5 +1,8 @@
-title: Welcome to my Website
+title: My Website
+description: Tom Hocquet
 theme: just-the-docs
+
+url: https://tomok59.github.io
+
 aux_links:
-  Projects:
-    - 'https://tomok59.github.io/power_outage_model/'
+  Template Repository: https://github.com/tomok59
