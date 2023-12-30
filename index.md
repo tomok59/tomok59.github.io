@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 <html lang="en">
 
 <head>
