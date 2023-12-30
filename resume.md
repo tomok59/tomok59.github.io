@@ -9,9 +9,9 @@ nav_order: 3
 
 San Diego, CA, 92103
 
-email: tomhocquet@gmail.com 
+email: [tomhocquet@gmail.com](tomhocquet@gmail.com)
 
-website: https://tomok59github.io/ 
+website: [https://tomok59github.io/](https://tomok59.github.io/)
 
 ## EDUCATION
 Bachelor of Science (B.S.) - Cognitive Science with a Specialization in Machine Learning and Neural Computation, Minor in Data Science, Minor in Mathematics
@@ -44,7 +44,7 @@ Communication Skills: Four years’ experience in customer service
 
 
 ### Relevant Classes Taken
-COGS 118A/B: Supervised Machine Learning (gradient descent, neural networks, SVM, Ensemble Learning)
+COGS 118A/B: Supervised/Unsupervised Machine Learning (gradient descent, neural networks, SVM, Ensemble Learning)
 
 COGS 108: Data Science in Practice
 
