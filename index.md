@@ -24,7 +24,7 @@ nav_order: 1
   Email: <a>tomhocquet@gmail.com </a>
   </p>
   <p>
-  <a href="https://github.com/tomok59/tomok59.github.io/raw/main/Resume_Dec_2023.docx" target="_blank">Resume Download</a>
+  <a href="https://github.com/tomok59/tomok59.github.io/raw/main/Resume_Dec_2023.pdf" target="_blank">Resume Download</a>
   </p>
   <br>
  
