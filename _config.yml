@@ -1,7 +1,5 @@
-remote_theme: just-the-docs
 title: Welcome to my Website
-plugins:
-- jekyll-remote-theme
+theme: just-the-docs
 aux_links:
   Projects:
     - 'https://tomok59.github.io/power_outage_model/'
