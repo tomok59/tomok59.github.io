@@ -7,7 +7,7 @@ nav_order: 2
 
 # Exploration and Analysis of Power Outages in the Continental United States
 
-by Tom Hocquet and Julia Ma
+by Tom Hocquet and [Julia Ma](https://github.com/Julia1014)
 
 ## Introduction
 
