@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 description: My current Resume
-nav_order: 3
+nav_order: 4
 ---
 
 # Tom Hocquet
