@@ -2,7 +2,7 @@
 layout: page
 title: Chicken Disease Detection
 description: CNN used to detect diseases from pictures of chicken fecal matter
-nav_order: 3
+nav_order: 4
 ---
 
 # Leveraging Neural Networks for Poultry Disease Identification
