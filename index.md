@@ -19,6 +19,7 @@ nav_order: 1
   <br>
   <p>Current UCSD student pursuing a Cognitive Science with a specialization in Machine Learning and Neural Computation B.S. and a minor in Data Science and Mathematics </p>
   <br>
+  <img src="linked_in_photo.png" alt="Tom Hocquet" style="width:200px;height:auto;">
   <p>Contact info </p>
   <p>
   Email: <a>tomhocquet@gmail.com </a>
