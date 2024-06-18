@@ -7,9 +7,13 @@ nav_order: 2
 
 # Catan AI
 
+### [Full Write-Up](https://github.com/kpstern/COGS188_SP24/blob/main/FinalProject_TIK.pdf)
+
 ## Abstract
 
 In this project, we aim to develop a reinforcement learning (RL) model that can learn to play Settlers of Catan, a multiplayer board game about trading and resource management. Specifically, we aim to use this model to note how the evolution of group dynamics and play styles in a set of agents that repeatedly play each other might be different than agents trained for a more game theory optimal strategy. We will be using a virtual environment to train a singular cohort of agents. The same set of agents will repeatedly play against each other, creating an environment similar to how many people would play board games. Throughout the training process, example games will be collected to illustrate the process and after a significant number of training iterations, the model will be evaluated through performance comparisons between agents with different exploration rates.
+
+![GIF visualization of it learning](catan.gif)
 
 ## Group Members
 - Tom Hocquet
@@ -40,5 +44,3 @@ Folder containing the code used in the project.
 
 #### [images](https://github.com/kpstern/COGS188_SP24/tree/main/Catan-AI/images)
 Example images of the Catan game implementation.
-
-### [Full Write-Up](https://github.com/kpstern/COGS188_SP24/blob/main/FinalProject_TIK.pdf)
