@@ -7,12 +7,14 @@ nav_order: 2
 
 # Catan AI
 
-We created a Q-learning agent that learned to play Catan and compared various hyperparameters in the learning process. If you want to run the code as given, you can just run the QLearningGame.py file.
+## Abstract
+
+In this project, we aim to develop a reinforcement learning (RL) model that can learn to play Settlers of Catan, a multiplayer board game about trading and resource management. Specifically, we aim to use this model to note how the evolution of group dynamics and play styles in a set of agents that repeatedly play each other might be different than agents trained for a more game theory optimal strategy. We will be using a virtual environment to train a singular cohort of agents. The same set of agents will repeatedly play against each other, creating an environment similar to how many people would play board games. Throughout the training process, example games will be collected to illustrate the process and after a significant number of training iterations, the model will be evaluated through performance comparisons between agents with different exploration rates.
 
 ## Group Members
 - Tom Hocquet
-- Ian Zane
-- Kai Stern
+- Ian Zane [github](https://github.com/ifzane)
+- Kai Stern [github](https://github.com/kpstern)
 
 ## Catan Implementation
 
@@ -21,13 +23,10 @@ This was implemented using an adapted version of the Catan AI developed by Karan
 
 ## Files
 
-### [Catan-AI](https://github.com/kpstern/COGS188_SP24/tree/main/Catan-AI)
+### [Catan-AI](https://github.com/tomok59/Catan-AI/tree/main/Catan-AI)
 Folder containing the edited versions of Karan Vombatkere's Catan-AI plus our modified or implemented files.
 
-#### [pycache](https://github.com/kpstern/COGS188_SP24/tree/main/Catan-AI/__pycache__)
-Folder containing various objects for use in the game.
-
-#### [code](https://github.com/kpstern/COGS188_SP24/tree/main/Catan-AI/code)
+#### [code](https://github.com/tomok59/Catan-AI/tree/main/Catan-AI/code)
 Folder containing the code used in the project.
 
 - [AIGame.py](https://github.com/kpstern/COGS188_SP24/blob/main/Catan-AI/code/AIGame.py): Implementation to play a game with just the heuristic AI developed by Vombatkere.
@@ -42,11 +41,4 @@ Folder containing the code used in the project.
 #### [images](https://github.com/kpstern/COGS188_SP24/tree/main/Catan-AI/images)
 Example images of the Catan game implementation.
 
-#### [old_q_tables](https://github.com/kpstern/COGS188_SP24/tree/main/Catan-AI/old_q_tables)
-Examples of the format of the Q-tables learned by the agents.
-
-### [Proposal_Project_TIK](https://github.com/kpstern/COGS188_SP24/blob/main/Proposal_Project_TIK.pdf)
-Original project proposal.
-
-### [FinalProject_TIK](https://github.com/kpstern/COGS188_SP24/blob/main/FinalProject_TIK.pdf)
-Writeup of the final project.
+### [Full Write-Up](https://github.com/kpstern/COGS188_SP24/blob/main/FinalProject_TIK.pdf)
