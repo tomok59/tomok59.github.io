@@ -29,7 +29,7 @@ nav_order: 1
   </p>
   <br>
  
-  <p>This is website still under construction</p>
+  <p>This is website is updated regularly</p>
   </main>
   </body>
 
