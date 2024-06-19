@@ -18,6 +18,10 @@ In this project, we aim to develop a reinforcement learning (RL) model that can 
 
 ![GIF visualization of it learning](catan.gif)
 
+[Website](https://www.dicebreaker.com/games/catan-1/how-to/how-to-play-catan-board-game) explaining the rules of catan
+
+<img src="catan.jpg" alt="photo of Catan">
+
 ## Catan Implementation
 
 This was implemented using an adapted version of the Catan AI developed by Karan Vombatkere. The original is accessible at the link below:
