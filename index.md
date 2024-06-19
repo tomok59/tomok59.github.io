@@ -17,12 +17,12 @@ nav_order: 1
     <h1>Tom Hocquet 🚀</h1>
 
   <br>
-  <p>Current UCSD student pursuing a Cognitive Science with a specialization in Machine Learning and Neural Computation B.S. and a minor in Data Science and Mathematics </p>
+  <p>Graduate from UCSD with a B.S. in <strong>COGNITIVE SCIENCE</strong> with a specialization in <strong>MACHINE LEARNING</strong> and <strong>NEURAL COMPUTATION</strong> B.S. and a minor in <strong>DATA SCIENCE</strong> and <strong>MATHEMATICS</strong> </p>
   <br>
   <img src="linked_in_photo.png" alt="Tom Hocquet" style="width:200px;height:auto;">
   <p>Contact info </p>
   <p>
-  Email: <a>tomhocquet@gmail.com </a>
+  Email: <a href="mailto:tomhocquet@gmail.com">tomhocquet@gmail.com</a>
   </p>
   <p>
   <a href="https://github.com/tomok59/tomok59.github.io/raw/main/Resume_Dec_2023.pdf" target="_blank">Resume Download</a>
