@@ -14,8 +14,7 @@ Tom Hocquet, [Ian Zane](https://github.com/ifzane), [Kai Stern](https://github.c
 
 ## Abstract
 
-In this project, we aim to develop a reinforcement learning (RL) model that can learn to play Settlers of Catan, a multiplayer board game about trading and resource management. Specifically, we aim to use this model to note how the evolution of group dynamics and play styles in a set of agents that repeatedly play each other might be different than agents trained for a more game theory optimal strategy. We will be using a virtual environment to train a singular cohort of agents. The same set of agents will repeatedly play against each other, creating an environment similar to how many people would play board games. Throughout the training process, example games will be collected to illustrate the process and after a significant number of training iterations, the model will be evaluated through performance comparisons between agents with different exploration rates.
-
+In this project, we aim to develop a reinforcement learning (RL) model that can learn to play Settlers of Catan, a multiplayer board game about trading and resource management. Specifically, we aim to use this model to note how the evolution of group dynamics and play styles in a set of agents that repeatedly play each other might be different than agents trained for a more game theory optimal strategy. Catan has a whooping <strong>244,432,188,000</strong> possible starting states, meaning that our agents cannot just memorize games but learn the strategies. We used a virtual environment to train a singular cohort of agents. The same set of agents will repeatedly play against each other, creating an environment similar to how many people would play board games. Below is a gif of the model learning. 
 ![GIF visualization of it learning](catan.gif)
 
 [Website](https://www.dicebreaker.com/games/catan-1/how-to/how-to-play-catan-board-game) explaining the rules of catan
