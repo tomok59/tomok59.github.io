@@ -7,9 +7,13 @@ nav_order: 4
 
 # Leveraging Neural Networks for Poultry Disease Identification
 
-<a href="https://github.com/tomok59/tomok59.github.io/raw/main/181 Project.pdf" target="_blank">Report Download</a>
+<a href="https://github.com/tomok59/tomok59.github.io/raw/main/181 Project.pdf" target="_blank">Report Download</a> 
+
 <a href="https://github.com/tomok59/181_final/blob/main/181_final_notebook.ipynb" target="_blank">Link to Notebook </a>
-<a href="https://github.com/zaki1503" target="_blank"> My Project Partner </a>
+
+<a href="https://github.com/zaki1503" target="_blank"> My Project Partner </a> 
+
+<img src="chicken.gif" alt="GIF" width="180" height="auto">
 
 ## Abstract
 
