@@ -9,6 +9,8 @@ nav_order: 3
 
 by Tom Hocquet and [Julia Ma](https://github.com/Julia1014)
 
+<img src="Power-Outages.gif" alt="GIF" width="180" height="auto">
+
 ## Introduction
 
 ---
