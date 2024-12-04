@@ -2,7 +2,7 @@
 layout: page
 title: Power Outage Project
 description: Exploration and Analysis of Power Outages in the Continental United States
-nav_order: 3
+nav_order: 4
 ---
 
 # Exploration and Analysis of Power Outages in the Continental United States
